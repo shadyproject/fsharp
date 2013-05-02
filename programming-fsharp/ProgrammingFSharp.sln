@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part 1", "Part 1", "{C5ABB5DC-F424-4EF7-BED5-617F865D287B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part 2", "Part 2", "{AE2FA54A-20C5-4304-9C9C-6F3C1492C8E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 1", "Chapter 1", "{16BFAF5D-F0F9-4670-9FC5-9778073507D5}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MegaHelloWorld", "MegaHelloWorld\MegaHelloWorld.fsproj", "{663EA256-6CAF-4FBD-B307-7275C97BC3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{663EA256-6CAF-4FBD-B307-7275C97BC3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663EA256-6CAF-4FBD-B307-7275C97BC3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663EA256-6CAF-4FBD-B307-7275C97BC3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663EA256-6CAF-4FBD-B307-7275C97BC3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{16BFAF5D-F0F9-4670-9FC5-9778073507D5} = {C5ABB5DC-F424-4EF7-BED5-617F865D287B}
+		{663EA256-6CAF-4FBD-B307-7275C97BC3DB} = {16BFAF5D-F0F9-4670-9FC5-9778073507D5}
+	EndGlobalSection
+EndGlobal
